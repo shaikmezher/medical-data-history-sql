@@ -1,0 +1,3 @@
+-- Medical Data History – SQL Analysis
+-- Author: Shaik Mezher Basha
+-- Description: SQL queries for analyzing real-time medical data
